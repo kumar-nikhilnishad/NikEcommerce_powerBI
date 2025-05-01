@@ -1,4 +1,4 @@
-![Retail_store_sales_dashboard](https://github.com/user-attachments/assets/9f277896-8f44-489b-9723-8e973ce28456)
+![Sales_Dashboard](https://github.com/user-attachments/assets/ed94cd71-8ace-4c2a-b0dc-55ba976c04a8)
 
 ## Sales & Customer Order Analysis System
 
